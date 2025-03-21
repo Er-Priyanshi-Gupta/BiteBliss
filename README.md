@@ -11,14 +11,6 @@ BiteBliss is a **restaurant management system** built with **HTML, CSS, and Java
 - **User-Friendly Interface** – Clean and interactive UI for smooth navigation.
 - **Responsive Design** – Works across desktops, tablets, and mobile devices.
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bitebliss.git
-   cd bitebliss
-   ```
-2. Open the `index.html` file in a browser to launch the system.
-
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** Bootstrap (for styling), Vanilla JS
