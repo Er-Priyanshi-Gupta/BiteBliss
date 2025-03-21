@@ -16,9 +16,6 @@ BiteBliss is a **restaurant management system** built with **HTML, CSS, and Java
 - **Frameworks/Libraries:** Bootstrap (for styling), Vanilla JS
 - **Hosting:** GitHub Pages / Netlify / Vercel
 
-## Contributing
-Contributions are welcome! Feel free to submit a pull request or report issues.
-
 ## License
 This project is licensed under the MIT License.
 
