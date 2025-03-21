@@ -18,6 +18,3 @@ BiteBliss is a **restaurant management system** built with **HTML, CSS, and Java
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For support or inquiries, reach out at **support@bitebliss.com**.
